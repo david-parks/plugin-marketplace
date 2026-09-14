@@ -364,7 +364,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/upwork/upwork-agent-plugin.git",
-        "sha": "9dded208b24bbe6c50d17927dfc260af07f38cc5"
+        "sha": "bab9a4e9bbc17da1404d3c27f9f7a5253ca82bc4"
       },
       "homepage": "https://www.upwork.com/ai/mcp",
       "keywords": ["upwork", "upwork mcp", "upwork hiring", "upwork jobs"],
